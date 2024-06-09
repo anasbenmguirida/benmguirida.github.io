@@ -160,10 +160,10 @@ section {
   padding: 25px;
   margin: 15px;
   color: black;
+  transition: 0.7s ease;
 }
 .card:hover {
   transform: scale(1.1, 1.1);
-  transition: 0.7s ease;
 }
 .icon {
   color: blue;
